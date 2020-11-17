@@ -1,1 +1,1 @@
-This needs to be reverted.
+This needs to be reverted for previous version of VCS.
