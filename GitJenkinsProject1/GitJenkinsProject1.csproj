@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{63F644FC-6343-42F2-9D9D-D57D34FD30AB}</ProjectGuid>
+    <ProjectGuid>{C296292D-A2BD-43AD-96F2-CA1DB08C46B0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FirstGitJenkinsProject</RootNamespace>
-    <AssemblyName>FirstGitJenkinsProject</AssemblyName>
+    <RootNamespace>GitJenkinsProject1</RootNamespace>
+    <AssemblyName>GitJenkinsProject1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

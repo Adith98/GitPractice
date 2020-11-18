@@ -1,7 +1,0 @@
-D:\Adith\LTI\Training\DevOps\GitPractice\bin\Debug\FirstGitJenkinsProject.exe.config
-D:\Adith\LTI\Training\DevOps\GitPractice\bin\Debug\FirstGitJenkinsProject.exe
-D:\Adith\LTI\Training\DevOps\GitPractice\bin\Debug\FirstGitJenkinsProject.pdb
-D:\Adith\LTI\Training\DevOps\GitPractice\obj\Debug\FirstGitJenkinsProject.csprojAssemblyReference.cache
-D:\Adith\LTI\Training\DevOps\GitPractice\obj\Debug\FirstGitJenkinsProject.csproj.CoreCompileInputs.cache
-D:\Adith\LTI\Training\DevOps\GitPractice\obj\Debug\FirstGitJenkinsProject.exe
-D:\Adith\LTI\Training\DevOps\GitPractice\obj\Debug\FirstGitJenkinsProject.pdb
