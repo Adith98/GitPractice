@@ -1,0 +1,7 @@
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\bin\Debug\GitJenkins.exe.config
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\bin\Debug\GitJenkins.exe
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\bin\Debug\GitJenkins.pdb
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\obj\Debug\GitJenkins.csprojAssemblyReference.cache
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\obj\Debug\GitJenkins.csproj.CoreCompileInputs.cache
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\obj\Debug\GitJenkins.exe
+D:\Adith\LTI\Training\DevOps\GitPractice\GitJenkins\obj\Debug\GitJenkins.pdb
