@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstGitJenkinsProject", "FirstGitJenkinsProject\FirstGitJenkinsProject.csproj", "{63F644FC-6343-42F2-9D9D-D57D34FD30AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstGitJenkinsProject", "FirstGitJenkinsProject.csproj", "{63F644FC-6343-42F2-9D9D-D57D34FD30AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D1ACF38F-FD89-49A6-A928-D18729760E56}
+		SolutionGuid = {142AF157-2952-4830-BC0F-645F21575518}
 	EndGlobalSection
 EndGlobal
